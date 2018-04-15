@@ -1,0 +1,9 @@
+Makefile
+build
+.obj
+.exe
+.lib
+.dll
+.a
+*.pro.user*
+*autosave*
